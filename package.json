@@ -13,7 +13,7 @@
     "url": "git+ssh://git@github.com/open-sauced/hot-sauce.git"
   },
   "engines": {
-    "node": ">=14",
+    "node": "14.x",
     "npm": ">=7"
   },
   "scripts": {
